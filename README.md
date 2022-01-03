@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyamMattoo
 - 👀 I’m interested in ...Programing
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Java and Web Development
 - 📫 How to reach me ...satyammattoo2003@gmail.com
 
 <!---
