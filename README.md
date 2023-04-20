@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyamMattoo
-- 👀 I’m interested in ...Devops and Programing
-- 🌱 I’m currently learning ...CICD tools and DSA
+- 👀 I’m interested in ... Web Development and Problem solving
+- 🌱 I’m currently learning ...MERN Stack and DSA
 - 📫 How to reach me ...satyammattoo2003@gmail.com
 
 <!---
